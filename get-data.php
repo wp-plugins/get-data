@@ -8,7 +8,7 @@
  Plugin URI: http://www.edc.org.kw
  Description: By using Get Data Plugin, you can get content by URL and insert data in header or footer
  Version: 1.0
- Author: EDC
+ Author: EDC Team
  Author URI: http://www.edc.org.kw
  License: It is Free -_-
 */
