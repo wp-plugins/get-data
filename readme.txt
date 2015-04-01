@@ -15,6 +15,7 @@ By using Get Data Plugin, you can get content by URL and insert data in header o
 
 
 Features:
+
 * Get content by url
 * Insert content in header or footer
 * Using start/end element
